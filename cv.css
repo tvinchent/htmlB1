@@ -1,0 +1,41 @@
+body {
+  background-color: cadetblue;
+}
+h1 {
+  color: blue;
+  font-size: 3em;
+}
+h2 {
+  font-size: 5em;
+  text-decoration: underline;
+}
+#sopra {
+  color: red;
+}
+.bleu {
+  color: blue;
+}
+#futur {
+  color: green;
+  border: 1px solid green;
+}
+#boite {
+  background-color: red;
+  height: 70px;
+  width: 200px;
+  margin: 2em;
+  padding: 2em 1em 3em 5em;
+  border: 3px solid;
+}
+.green {
+  background-color: green;
+}
+.blue:hover {
+  background-color: blue;
+}
+.bloc {
+  position: absolute;
+}
+#thibault4 {
+  float: right;
+}
